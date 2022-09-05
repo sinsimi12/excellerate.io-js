@@ -18,7 +18,7 @@
     --bg-color:#fff;
 }
 body{
-    color: #090a1a;
+    color: var(--bg-color);
     background-color: var(--body-color);
 }
 img{
